@@ -23,7 +23,7 @@ Welcome to the repository for CMOS and WER evaluation datasets and related files
 
 ### WER Evaluation
 1. Locate the WER evaluation audio dataset in the `wer_evaluation` folder.
-2. Use the  transcriptions provided in 'wer_transcriptions' folder.
+2. Use the  transcriptions provided in same folder.
 3. Follow the standard WER calculation to evaluate the TTS using this dataset
 
 ## Repository Structure
@@ -32,7 +32,6 @@ Welcome to the repository for CMOS and WER evaluation datasets and related files
 │   └── [Audio files for CMOS evaluation]
 ├── wer_evaluation
 │   └── [Audio files for WER evaluation]
-├── wer_transcriptions
 │   └── [Transcriptions for WER audio files]
 ├── README.md
 ```
